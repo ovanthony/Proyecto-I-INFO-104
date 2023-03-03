@@ -1,0 +1,32 @@
+C:\Users\Roberts\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Roberts\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Roberts\source\repos\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Roberts\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Roberts\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roberts\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Roberts\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Roberts\source\repos\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\XPC\Downloads\U\Materia\III Cuatri\Programación II\Proyecto I\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\XPC\Downloads\U\Materia\III Cuatri\Programación II\Proyecto I\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\XPC\Downloads\U\Materia\III Cuatri\Programación II\Proyecto I\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\XPC\Downloads\U\Materia\III Cuatri\Programación II\Proyecto I\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\XPC\Downloads\U\Materia\III Cuatri\Programación II\Proyecto I\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\XPC\Downloads\U\Materia\III Cuatri\Programación II\Proyecto I\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\XPC\Downloads\U\Materia\III Cuatri\Programación II\Proyecto I\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\XPC\Downloads\U\Materia\III Cuatri\Programación II\Proyecto I\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\bravo\Downloads\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\bravo\Downloads\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\bravo\Downloads\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\bravo\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\bravo\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\bravo\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\bravo\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\bravo\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\XPC\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\XPC\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\XPC\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\XPC\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\XPC\Downloads\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\XPC\Downloads\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\XPC\Downloads\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\XPC\Downloads\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
